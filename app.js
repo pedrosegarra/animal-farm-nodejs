@@ -7,7 +7,7 @@ var animals = {
     "dog": "bark",
     "eel": "hiss",
     "bear": "growl",
-    "frog": "croak",
+    "fro": "croa",
     "lion": "roar",
     "vaca": "mu",
     "otro": "algo3",
