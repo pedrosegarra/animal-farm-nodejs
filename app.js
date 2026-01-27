@@ -13,7 +13,8 @@ var animals = {
     "otro": "algo3",
     "niño": "llora",
     "uno" : "1",
-    "perro" : "ladra"
+    "perro" : "ladra",
+    "gato" : "maulla"
 }
 
 function getAnimal() {
