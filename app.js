@@ -14,7 +14,8 @@ var animals = {
     "niño": "llora",
     "uno" : "1",
     "perro" : "ladra",
-    "gato" : "maulla"
+    "gato" : "maulla",
+    "cabra": "beee"
 }
 
 function getAnimal() {
