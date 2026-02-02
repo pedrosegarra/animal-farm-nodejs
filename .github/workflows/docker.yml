@@ -32,5 +32,5 @@ jobs:
           file: ./Dockerfile
           push: true
           tags: |
-            pedrosegarracabedo/animal-farm-nodejsv2:latest
+            pedrosegarracabedo/animal-farm-nodejsv3:latest
             
